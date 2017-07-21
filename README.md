@@ -1,17 +1,50 @@
-# Watcher of Friends Online
+# Кто онлайн вк
 
-[TODO. There will be project description]
+Скрипт принимает на вход app_id, логин и пароль и выводит имена и фамилии друзей онлайн
 
-# How to Install
+# Установка и использование
 
-Python 3 should be already installed. Then use pip (or pip3 if there is a conflict with old Python 2 setup) to install dependencies:
+Python 3 должен быть заранее установлен. Используйте pip3, чтобы установить зависимости:
 
 ```bash
-pip install -r requirements.txt # alternatively try pip3
+pip3 install -r requirements.txt 
 ```
 
-Remember, it is recommended to use [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) for better isolation.
+Использование:
 
-# Project Goals
+```bash
+python3 vk_friends_online.py <app_id> <login> <password>
+Никита Суетин
+Андрей Белый
+Юлия Рожанская
+Мария Сапожникова
+Максим Жарков
+Антон Юхневич
+Глеб Добриян
+Александра Малашихина
+Павел Никулин
+Сергей Перов
+Ростик Потапов
+Элина Риянова
+Эля Гурова
+Ирина Алёшина
+Saveliy Dedkov
+Юлия Молчанова
+Вова Кузнецов
+Илья Комаров
+Ваня Кондрашов
+Артём Ксеневич
+Алексей Меловацкий
+Анастасия Сайкова
+Даниил Евсеенков
+Анастасия Русова
+Керим Абубакаров
+Josh Dopemell
+Alexander Ghost
+Дмитрий Покрышкин
+```
+Рекомендовано использовать [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) для лучшей изоляции.
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+# Цели проекта
+
+Этот код написан в образовательных целях. Обучающий курс для веб-девелоперов - [DEVMAN.org](https://devman.org)
