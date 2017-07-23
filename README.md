@@ -46,6 +46,7 @@ Alexander Ghost
 <password>
 ```
 [Пример файла](https://pastebin.com/raw/SshzM8yi)
+
 Рекомендовано использовать [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) для лучшей изоляции.
 
 # Цели проекта
