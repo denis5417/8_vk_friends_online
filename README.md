@@ -38,6 +38,14 @@ Saveliy Dedkov
 Alexander Ghost
 Даниил Мажурин
 ```
+
+Файл должен выглядеть следующим образом:
+```
+<app_id>
+<login>
+<password>
+```
+[Пример файла](https://pastebin.com/raw/SshzM8yi)
 Рекомендовано использовать [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) для лучшей изоляции.
 
 # Цели проекта
